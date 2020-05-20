@@ -45,7 +45,7 @@ import com.opentok.android.Subscriber;
 import com.opentok.android.SubscriberKit;
 import com.opentok.android.BaseVideoRenderer;
 
-public class OpenTokAndroidPlugin extends CordovaPlugin
+public class OldCdtOpenTokAndroidPlugin extends CordovaPlugin
         implements  Session.SessionListener,
                     Session.ConnectionListener,
                     Session.SignalListener,
@@ -737,7 +737,7 @@ public class OpenTokAndroidPlugin extends CordovaPlugin
                     JSONObject payload = new JSONObject();
                     try {
                         payload.put("platform", "Android");
-                        payload.put("cp_version", "3.1.2");
+                        payload.put("cp_version", "3.3.1");
                     } catch (JSONException e) {
                         Log.i(TAG, "Error creating payload json object");
                     }
