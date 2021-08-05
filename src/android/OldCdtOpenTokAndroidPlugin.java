@@ -737,7 +737,7 @@ public class OldCdtOpenTokAndroidPlugin extends CordovaPlugin
                     JSONObject payload = new JSONObject();
                     try {
                         payload.put("platform", "Android");
-                        payload.put("cp_version", "3.3.1");
+                        payload.put("cp_version", "3.3.3");
                     } catch (JSONException e) {
                         Log.i(TAG, "Error creating payload json object");
                     }
