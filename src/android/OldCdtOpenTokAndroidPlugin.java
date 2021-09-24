@@ -746,7 +746,7 @@ public class OldCdtOpenTokAndroidPlugin extends CordovaPlugin
                     params.put("payload_type", "info");
                     params.put("partner_id", apiKey);
                     params.put("payload", payload.toString());
-                    params.put("source", "https://github.com/alauga/old-cdt-cordova-plugin-opentok");
+                    params.put("source", "https://github.com/cdtdesa/old-cdt-cordova-plugin-opentok");
                     params.put("build", "2.16.6");
                     params.put("session_id", sessionId);
 

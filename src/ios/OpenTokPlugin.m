@@ -54,7 +54,7 @@
     [logData setObject:@"cp_initialize" forKey:@"action"];
     [logData setObject:apiKey forKey:@"partner_id"];
     [logData setObject:@"2.16.6" forKey:@"build"];
-    [logData setObject:@"https://github.com/alauga/old-cdt-cordova-plugin-opentok" forKey:@"source"];
+    [logData setObject:@"https://github.com/cdtdesa/old-cdt-cordova-plugin-opentok" forKey:@"source"];
     [logData setObject:@"info" forKey:@"payload_type"];
     [logData setObject:payload forKey:@"payload"];
     [logData setObject:sessionId forKey:@"session_id"];
