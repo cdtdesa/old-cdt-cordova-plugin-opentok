@@ -1,6 +1,6 @@
 {
   "_from": "old-cdt-cordova-plugin-opentok@^3.3.0",
-  "_id": "old-cdt-cordova-plugin-opentok@3.3.3",
+  "_id": "old-cdt-cordova-plugin-opentok@3.3.5",
   "_inBundle": false,
   "_integrity": "sha1-lP1k7U0B6jaywuoJVvaeWTmzoo0=",
   "_location": "/old-cdt-cordova-plugin-opentok",
@@ -8,19 +8,19 @@
   "_requested": {
     "type": "range",
     "registry": true,
-    "raw": "old-cdt-cordova-plugin-opentok@^3.3.3",
+    "raw": "old-cdt-cordova-plugin-opentok@^3.3.5",
     "name": "old-cdt-cordova-plugin-opentok",
     "escapedName": "old-cdt-cordova-plugin-opentok",
-    "rawSpec": "^3.3.3",
+    "rawSpec": "^3.3.5",
     "saveSpec": null,
-    "fetchSpec": "^3.3.3"
+    "fetchSpec": "^3.3.5"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/old-cdt-cordova-plugin-opentok/-/old-cdt-cordova-plugin-opentok-3.3.3.tgz",
+  "_resolved": "https://registry.npmjs.org/old-cdt-cordova-plugin-opentok/-/old-cdt-cordova-plugin-opentok-3.3.5.tgz",
   "_shasum": "94fd64ed4d01ea36b2c2ea0956f69e5939b3a28d",
-  "_spec": "old-cdt-cordova-plugin-opentok@^3.3.3",
+  "_spec": "old-cdt-cordova-plugin-opentok@^3.3.5",
   "_where": "/projects/ionic",
   "bundleDependencies": false,
   "dependencies": {
@@ -43,5 +43,5 @@
     "type": "git",
     "url": "ssh://git@git.sos.eu:7999/onl/old-cdt-cordova-plugin-opentok.git"
   },
-  "version": "3.3.3"
+  "version": "3.3.5"
 }
